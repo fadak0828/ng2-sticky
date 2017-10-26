@@ -1,6 +1,6 @@
 {
-  "name": "ng2-sticky-kit",
-  "version": "5.0.0",
+  "name": "ng2-sticky-kit-fadak",
+  "version": "5.0.1",
   "description": "Angular component that allows to stick the elements such as header, menu, sidebar or any other block on the page.",
   "main": "./bundles/ng2-sticky-kit.umd.js",
   "module": "./ng2-sticky-kit.es5.js",
@@ -8,7 +8,7 @@
   "typings": "./ng2-sticky-kit.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/makseo/ng2-sticky.git"
+    "url": "https://github.com/fadak0828/ng2-sticky.git"
   },
   "keywords": [
     "angular",
@@ -19,10 +19,10 @@
     "stuck",
     "fixed"
   ],
-  "author": "Maksym Bidiuk",
+  "author": "Maksym Bidiuk and edit by fadak",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/makseo/ng2-sticky/issues"
+    "url": "https://github.com/fadak0828/ng2-sticky/issues"
   },
   "engines": {
     "node": ">= 6.9.0",
